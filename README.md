@@ -52,4 +52,4 @@ This project is designed to:
 ---
 
 
-If you want, I can also **customize this README with badges, screenshots, or your LinkedIn video embedded** 👍
+
